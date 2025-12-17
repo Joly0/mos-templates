@@ -14,11 +14,7 @@
   "icon": "https://raw.githubusercontent.com/open-webui/open-webui/main/static/favicon.png",
   "project": "https://github.com/open-webui/open-webui",
   "support": "https://github.com/open-webui/open-webui/issues",
-  "description": "(Formerly Ollama WebUI)&#xD;
-ChatGPT-Style Web Interface for various LLM runners, including Ollama and OpenAI-compatible APIs&#xD;
-&#xD;
-IMPORTANT: Make sure to add the following environment variable to your ollama container&#xD;
-- OLLAMA_ORIGINS=*",
+  "description": "(Formerly Ollama WebUI)\nChatGPT-Style Web Interface for various LLM runners, including Ollama and OpenAI-compatible APIs\n\nIMPORTANT: Make sure to add the following environment variable to your ollama container\n- OLLAMA_ORIGINS=*",
   "paths": [
     {
       "name": "Path: /data",
