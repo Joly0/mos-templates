@@ -14,7 +14,7 @@
   "icon": "https://raw.githubusercontent.com/Joly0/docker-templates/refs/heads/main/icons/logo-text-vertical-grey.png",
   "project": "https://github.com/ZoeyVid/NPMplus",
   "support": "https://github.com/ZoeyVid/NPMplus/issues",
-  "description": "NPMplus is a fork of NPM (Nginx-Proxy-Manager) with many useful features like support for http/3 (Quic), Crowdsec or Modsecurity.\nYou can read about all the features here https://github.com/ZoeyVid/NPMplus#list-of-new-features\n\nYou can migrate from NPM to NPMplus. Read how in the "Read Me First" section in this template or here on the project page https://github.com/ZoeyVid/NPMplus#migration\n\nATTENTION: You can migrate from NPM to NPMplus, BUT you can&#xB4;t migrate back. SO BACKUP YOUR NPM DATA! You have been warned.\n\nYou can read more about the variables and ports you can use for this image here https://github.com/ZoeyVid/NPMplus/blob/develop/compose.yaml",
+  "description": "NPMplus is a fork of NPM (Nginx-Proxy-Manager) with many useful features like support for http/3 (Quic), Crowdsec or Modsecurity.\nYou can read about all the features here https://github.com/ZoeyVid/NPMplus#list-of-new-features\n\nYou can migrate from NPM to NPMplus. Read how in the \"Read Me First\" section in this template or here on the project page https://github.com/ZoeyVid/NPMplus#migration\n\nATTENTION: You can migrate from NPM to NPMplus, BUT you can&#xB4;t migrate back. SO BACKUP YOUR NPM DATA! You have been warned.\n\nYou can read more about the variables and ports you can use for this image here https://github.com/ZoeyVid/NPMplus/blob/develop/compose.yaml",
   "paths": [
     {
       "name": "Path: /data",
